@@ -1,0 +1,13 @@
+[
+{
+  "model": "courses.image",
+  "pk": 1,
+  "fields": {
+    "owner": 2,
+    "title": "test imagen",
+    "created": "2022-10-08T02:54:31.108Z",
+    "updated": "2022-10-08T02:54:31.108Z",
+    "file": "images/googleRestconection.PNG"
+  }
+}
+]

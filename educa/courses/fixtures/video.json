@@ -1,0 +1,13 @@
+[
+{
+  "model": "courses.video",
+  "pk": 1,
+  "fields": {
+    "owner": 2,
+    "title": "test video",
+    "created": "2022-10-08T02:55:03.894Z",
+    "updated": "2022-10-08T02:55:03.894Z",
+    "url": "https://www.youtube.com/watch?v=ztCH624z-MI"
+  }
+}
+]

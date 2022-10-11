@@ -1,0 +1,42 @@
+[
+{
+  "model": "courses.content",
+  "pk": 1,
+  "fields": {
+    "module": 7,
+    "content_type": 5,
+    "object_id": 1,
+    "order": 0
+  }
+},
+{
+  "model": "courses.content",
+  "pk": 2,
+  "fields": {
+    "module": 7,
+    "content_type": 6,
+    "object_id": 1,
+    "order": 1
+  }
+},
+{
+  "model": "courses.content",
+  "pk": 3,
+  "fields": {
+    "module": 7,
+    "content_type": 4,
+    "object_id": 1,
+    "order": 2
+  }
+},
+{
+  "model": "courses.content",
+  "pk": 4,
+  "fields": {
+    "module": 7,
+    "content_type": 7,
+    "object_id": 1,
+    "order": 3
+  }
+}
+]

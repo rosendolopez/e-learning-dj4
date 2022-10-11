@@ -1,0 +1,43 @@
+[
+{
+  "model": "courses.course",
+  "pk": 1,
+  "fields": {
+    "owner": 1,
+    "subject": 4,
+    "title": "Curso1",
+    "slug": "curso1",
+    "overview": "Curso1 Overview",
+    "created": "2022-10-08T02:08:33.414Z",
+    "students": [
+      1
+    ]
+  }
+},
+{
+  "model": "courses.course",
+  "pk": 2,
+  "fields": {
+    "owner": 1,
+    "subject": 2,
+    "title": "Curso2",
+    "slug": "curso2",
+    "overview": "Curso2 Overview",
+    "created": "2022-10-08T02:13:51.646Z",
+    "students": []
+  }
+},
+{
+  "model": "courses.course",
+  "pk": 3,
+  "fields": {
+    "owner": 2,
+    "subject": 3,
+    "title": "Musica1",
+    "slug": "Musica1",
+    "overview": "Musica1  Overview",
+    "created": "2022-10-08T02:32:42.881Z",
+    "students": []
+  }
+}
+]

@@ -1,0 +1,13 @@
+[
+{
+  "model": "courses.file",
+  "pk": 1,
+  "fields": {
+    "owner": 2,
+    "title": "test archivo",
+    "created": "2022-10-08T02:55:31.325Z",
+    "updated": "2022-10-08T02:55:31.325Z",
+    "file": "files/python_basics.pdf"
+  }
+}
+]

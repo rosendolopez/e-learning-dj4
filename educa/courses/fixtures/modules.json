@@ -1,0 +1,72 @@
+[
+{
+  "model": "courses.module",
+  "pk": 1,
+  "fields": {
+    "course": 1,
+    "title": "Modulo 1",
+    "description": "Modulo 1 Description",
+    "order": 0
+  }
+},
+{
+  "model": "courses.module",
+  "pk": 2,
+  "fields": {
+    "course": 1,
+    "title": "Modulo 2",
+    "description": "Modulo 2 Description",
+    "order": 1
+  }
+},
+{
+  "model": "courses.module",
+  "pk": 3,
+  "fields": {
+    "course": 1,
+    "title": "Modulo 3",
+    "description": "Modulo 3 Description",
+    "order": 5
+  }
+},
+{
+  "model": "courses.module",
+  "pk": 4,
+  "fields": {
+    "course": 1,
+    "title": "Modulo 4",
+    "description": "Modulo 4 Description",
+    "order": 6
+  }
+},
+{
+  "model": "courses.module",
+  "pk": 5,
+  "fields": {
+    "course": 2,
+    "title": "Modulo 1",
+    "description": "Modulo 1 Description",
+    "order": 0
+  }
+},
+{
+  "model": "courses.module",
+  "pk": 6,
+  "fields": {
+    "course": 3,
+    "title": "ModuloB",
+    "description": "ModuloB",
+    "order": 1
+  }
+},
+{
+  "model": "courses.module",
+  "pk": 7,
+  "fields": {
+    "course": 3,
+    "title": "ModuloA",
+    "description": "ModuloA",
+    "order": 0
+  }
+}
+]

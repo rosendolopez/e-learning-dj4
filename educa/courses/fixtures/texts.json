@@ -1,0 +1,13 @@
+[
+{
+  "model": "courses.text",
+  "pk": 1,
+  "fields": {
+    "owner": 2,
+    "title": "Ejemplo Texto",
+    "created": "2022-10-08T02:38:00.891Z",
+    "updated": "2022-10-08T02:54:01.521Z",
+    "content": "Modulo1"
+  }
+}
+]
